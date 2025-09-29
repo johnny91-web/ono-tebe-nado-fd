@@ -62,7 +62,7 @@
 
 .header__contacts {
     justify-self: end;
-    list-style: none;    
+    list-style: none;
 }
 
 .cover {
@@ -219,7 +219,7 @@
     justify-content: space-between;
 }
 .text {
-    font-family: 'Raleway', sans-serif; 
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
